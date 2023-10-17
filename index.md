@@ -6,3 +6,6 @@
 ###### Heading 6
 
 I'm new to GitHub and I'm learning to use markdown.
+
+## I'm trying to add an image below
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

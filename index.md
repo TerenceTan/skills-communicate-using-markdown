@@ -9,3 +9,15 @@ I'm new to GitHub and I'm learning to use markdown.
 
 ## I'm trying to add an image below
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Adding code example block below:
+### Command-line
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+### Javascript
+``` javascript
+var myVar = "Hello, world!";
+```
